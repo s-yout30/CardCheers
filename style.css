@@ -108,6 +108,8 @@ body{
 .menu-content ul li {
     border-bottom: solid 1px #ffffff;
     list-style: none;
+    position: relative;
+    z-index: 110;
 }
 .menu-content ul li a {
     display: block;
